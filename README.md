@@ -4,7 +4,7 @@
 an blender addon in order to make rootmotion for my unreal project  
    
 安装：  
-在blender里安装.zip,RigifyRootmotion.zip  
+在blender里安装.zip 
 install:  
 install RigifyRootmotion.zip in blender  
 
