@@ -10,14 +10,14 @@ install RigifyRootmotion.zip in blender
 
 使用方法：  
 菜单在属性栏的视图选项里  
-0：备份动画  
+0：备份动画,设置起始帧和结束帧   
 1：选择所有控制身体的骨骼（rigify里的人形模板有：手脚的IK和torso）  
 2：再选上根运动来源作为活动物体（直接用torso也行）  
 3：在菜单选择需要的根运动（l是位移，r是旋转）  
 4：按执行按钮   
 
 ui appear in scene option  
-0: copy the animation  
+0: copy the animation,set start&end frame  
 1: select all body control bones(in rigify human bone they are hand&footik and torso)  
 2: also select rootmotion resouce bone make it active(it could be torso)  
 3: use UI choose which kind of movement is needed(l=location r=rotation)  
