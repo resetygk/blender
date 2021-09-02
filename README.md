@@ -1,7 +1,10 @@
 # blender
 
 玩ue5没有合适的资源，所以为了用rigify直接做根骨骼动画，写了简单的插件。
-
+安装：  
+在blender里安装.zip,RigifyRootmotion.zip  
+install:  
+install RigifyRootmotion.zip in blender  
 
 使用方法：  
 菜单在属性栏的视图选项里  
