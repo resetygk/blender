@@ -1,5 +1,5 @@
 # blender
-an simple blender addon: in order to make rootmotion with rigify
+
 菜单在属性栏的视图选项里
 0：备份动画
 1：选择所有控制身体的骨骼（rigify里的人形模板有：手脚的IK和torso）
